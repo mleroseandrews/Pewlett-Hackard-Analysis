@@ -14,9 +14,10 @@
  - The total number of employees that were eligible for the mentorship program is only 1,549. This means that through the mentorship program, only 2% of the openings will be fulfilled if every employee on that list enters the program.   They will need to query employees born prior to 1965 to add more available employees as mentors.  
 
 # Retirees by Department
-<img src= "file:///C:/Users/Administrator/Desktop/Bootcamp/Module_7/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/graph_visualiser-1671079807887.png"
+"![retirees_by_dept](https://user-images.githubusercontent.com/116030873/207779554-aea943cc-c338-4aa4-8673-9c355f131346.png)
+
 # Employees eligible for mentorship program by Department
-file:///C:/Users/Administrator/Desktop/Bootcamp/Module_7/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirees_by_dept.png
+![mentors_by_dept](https://user-images.githubusercontent.com/116030873/207779525-8e9ac5d3-8053-4e2c-b5dd-2310ef24ce7e.png)
 
 
 ## Resources
